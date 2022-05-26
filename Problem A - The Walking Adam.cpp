@@ -3,6 +3,7 @@
 using namespace std;
 
 signed main() {
+    ios_base::sync_with_stdio(false), cin.tie(nullptr);
     freopen("adam.in", "r", stdin);
     int t;
     cin >> t;
