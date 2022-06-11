@@ -46,7 +46,6 @@ inline void fill(int i, int j) {
 
 signed main() {
 
-    ios_base::sync_with_stdio(false), cin.tie(nullptr);
     freopen("event.in", "r", stdin);
 
     int t;
